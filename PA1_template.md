@@ -1,4 +1,4 @@
-# Reproducible Research: Peer Assessment 1
+# Reproducible Research: Analysis of Personal Activity Data
 
 This report analyzes data from a personal activity monitoring device. The device collects data at 5-minute intervals throughout the day. The dataset consist of two months of data from an anonymous individual collected during the months of October and November, 2012, and includes the number of steps taken in 5-minute intervals each day.
 
