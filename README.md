@@ -14,4 +14,6 @@ The final report can be viewed here: http://rpubs.com/tdwils/161487
 
 **PA1_template.Rmd** The R Markdown file containing the R script that generates the html file.
 
+**activity.csv** Data file
+
 
